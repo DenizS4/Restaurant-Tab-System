@@ -1,3 +1,5 @@
+# Live Demo
+https://restaurant-tab-system.vercel.app/
 # Restaurant Tab System
 
 This project is a comprehensive web application designed to help restaurants manage their tables, customers, and orders efficiently. It provides a user-friendly interface for seating arrangements, order taking (both individual and shared), menu management, and bill splitting, with data persistence across browser sessions.
